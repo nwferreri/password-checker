@@ -1,6 +1,6 @@
 # Password Checker
 
-Uses the [Have I been pwned? Password Checker](https://haveibeenpwned.com/Passwords) API to check if a password has been involved in a data breach.
+Uses the [Have I been pwned? Password Checker](https://haveibeenpwned.com/Passwords) API to securely check if a password has been involved in a data breach.
 
 The API uses a [k-Anonimity model](https://haveibeenpwned.com/API/v3#SearchingPwnedPasswordsByRange) to search for passwords by partial hashes.
 
